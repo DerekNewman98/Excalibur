@@ -11,9 +11,9 @@ body{
 #container {
 	display:  flex;
 	align-items: center;
-	judtify-content:  center;
+	justify-content:  center;
 	height: 100vh;
-	flex-direction: coulumn;
+	flex-direction: column;
 }
 
 #navbar {
